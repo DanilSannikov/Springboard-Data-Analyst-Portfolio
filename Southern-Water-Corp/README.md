@@ -51,11 +51,11 @@ Improved cost management could help Southern Water Corp achieve approximately:
 
 ## 📊 Revenue Analysis
 
-![Revenue Analysis](Revenue Analysis.png)
+![Revenue Analysis](RevenueAnalysis.png)
 
 ## 💰 Expenses Analysis
 
-![Expenses Analysis](Expenses Analysis.png)
+![Expenses Analysis](ExpensesAnalysis.png)
 
 ## 📈 EBIT Analysis
 
