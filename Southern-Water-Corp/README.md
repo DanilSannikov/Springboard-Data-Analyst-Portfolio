@@ -49,9 +49,17 @@ Improved cost management could help Southern Water Corp achieve approximately:
 - **EBIT: $40M**
 - **EBIT Margin: 20%**
 
-## 📈 Dashboard
+## 📊 Revenue Analysis
 
-Dashboard screenshots will be added here.
+![Revenue Analysis](Revenue Analysis.png)
+
+## 💰 Expenses Analysis
+
+![Expenses Analysis](Expenses Analysis.png)
+
+## 📈 EBIT Analysis
+
+![EBIT Analysis](EBIT.png)
 
 ## 📁 Project Files
 
@@ -63,7 +71,6 @@ The Excel analysis and supporting files are included in this repository.
 - Financial Analysis
 - Data Cleaning
 - Microsoft Excel
-- Tableau
 - Data Visualization
 - Business Problem Solving
 - Data Storytelling
