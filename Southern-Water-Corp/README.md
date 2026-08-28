@@ -53,14 +53,26 @@ Improved cost management could help Southern Water Corp achieve approximately:
 
 ![Revenue Analysis](RevenueAnalysis.png)
 
+**Insight:** Revenue increased across all three plants, with Surjek
+generating the highest overall revenue. This indicates strong demand,
+but revenue growth alone did not translate into proportional
+profitability.
+
 ## 💰 Expenses Analysis
 
 ![Expenses Analysis](ExpensesAnalysis.png)
+
+**Insight:** Chemical costs represent a major operating expense.
+Surjek shows disproportionately high chemical expenses compared with
+the other plants, making it the primary opportunity for cost reduction.
 
 ## 📈 EBIT Analysis
 
 ![EBIT Analysis](EBIT.png)
 
+**Insight:** Despite strong revenue performance, Surjek has the weakest
+EBIT margin. High operating costs, particularly chemical expenses,
+are significantly reducing the plant's profitability.
 ## 📁 Project Files
 
 The Excel analysis and supporting files are included in this repository.
